@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-explain",
+  "versions": [
+    {
+      "commit": "d39ba0ff187efad61d7e2995113bbcedd2d16dec",
+      "tag": "",
+      "parsed_at": "2026-10-12T16:33:09.729956+00:00"
+    }
+  ]
+}
